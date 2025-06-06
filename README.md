@@ -1,8 +1,8 @@
 # Hello, welcome to Lizzard's universe.
 I help people with web development, script creation, design, and full-stack development, providing efficient and customized solutions.
 
-## 📌 My Discord Profile
-[![Discord Profile](https://lanyard.cnrad.dev/api/1234262055070994473)](https://discord.com/users/1234262055070994473)
+## 📌 Discord Profilim
+[![Discord Profilim](https://lanyard.cnrad.dev/api/688863176850145424)](https://discord.com/users/688863176850145424)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1234262055070994473) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hamza.bys) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Rick_ByZehirX) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ham3544za@gmail.com) 

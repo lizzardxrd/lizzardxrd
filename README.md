@@ -1,7 +1,9 @@
 # Hello, welcome to Lizzard's universe.
 I help people with web development, script creation, design, and full-stack development, providing efficient and customized solutions.
 
-![Profil Görüntülenmesi](https://komarev.com/ghpvc/?lizzardxrd=lizzardxrd&color=b8eb10)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lizzardxrd&color=green" alt="Profil Ziyaretçisi" />
+</p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1234262055070994473?theme=light&showDisplayName=true&borderRadius=10&bg=7b7b7b)](https://discord.com/users/1234262055070994473)
 

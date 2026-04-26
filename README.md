@@ -109,7 +109,7 @@ const me = {
   <img alt="Email" src="https://img.shields.io/badge/protonmail-6D4AFF.svg?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=111">
 </a>
 <a href="https://github.com/lizzardxrd">
-  <img src="https://komarev.com/ghpvc/?username=lizzardxrd&color=dc143c&style=for-the-badge&label=Views"/>
+  <img src="https://komarev.com/ghpvc/?username=lizzardxrd&color=872f59&style=for-the-badge&label=Views"/>
 </a>
 
 </div>
